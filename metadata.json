@@ -1,0 +1,6 @@
+{
+  "name": "Mystic Forest: Ancient Defense",
+  "description": "A 2D pixel-art hack-and-slash tower defense survival game. Defend the Sacred Heart Tower across 13 ancient realms with 35 elemental weapons, unique heroes, boss fights, rebirths, and secret admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
